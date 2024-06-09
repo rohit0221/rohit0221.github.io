@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rohit Sharma"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Rohit Sharma"
+description              : &description "R&D Manager insanely passionate about Gen AI, NLP, LLMs and Neural Networks..."
 url                      : https://rohit0221.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rohit0221/rohit0221.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Rohit.png"
+  name             : "Rohit Sharma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "R&D Manager insanely passionate about Gen AI, NLP, LLMs and Neural Networks..."
+  location         : "Gurgaon"
+  employer         : "Amdocs"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rohit0221@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://rohit0221.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/rohit0221/
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://medium.com/@rohit0221
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
