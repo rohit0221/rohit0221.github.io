@@ -21,7 +21,7 @@ repository               : "rohit0221/rohit0221.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Rohit.png"
+  avatar           : "profile.png"
   name             : "Rohit Sharma"
   pronouns         : # example: "she/her"  
   bio              : "R&D Manager insanely passionate about Gen AI, NLP, LLMs and Neural Networks..."
