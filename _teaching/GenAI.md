@@ -1,9 +1,9 @@
 ---
-title: "GenAI-Nexus"
+title: "Rohit's GenAI Nexus"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/GenAI-Nexus
-venue: "Rohit's WorkStation"
+venue: ""
 date: 2024-06-09
 location: "Gurgaon, India"
 ---
