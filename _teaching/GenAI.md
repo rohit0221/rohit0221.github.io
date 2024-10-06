@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/GenAI-Nexus
 venue: ""
 date: 2024-06-09
-location: "Gurgaon, India"
+location: "Gurgaon, India "
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
